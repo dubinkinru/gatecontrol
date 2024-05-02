@@ -2,7 +2,7 @@
  * timer.h
  *
  * Created: 02.05.2024 22:59:34
- * Author: dubinkin.ru
+ *  Author: dubinkin.ru
  */ 
 
 #ifndef TIMER_H_

@@ -2,7 +2,7 @@
  * main.h
  *
  * Created: 02.05.2024 22:09:04
- * Author: dubinkin.ru
+ *  Author: dubinkin.ru
  */ 
 
 #ifndef MAIN_H_

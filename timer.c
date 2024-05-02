@@ -2,7 +2,7 @@
  * timer.c
  *
  * Created: 02.05.2024 22:59:24
- * Author: dubinkin.ru
+ *  Author: dubinkin.ru
  */ 
 
 #include "timer.h"
