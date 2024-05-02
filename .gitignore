@@ -1,1 +1,12 @@
+.vs
+Debug
+Release
 
+*.eep
+*.elf
+*.hex
+*.lss
+*.map
+*.d
+*.o
+*.mk
