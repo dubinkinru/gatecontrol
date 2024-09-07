@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>gatescontrol</AssemblyName>
-    <Name>gatescontrol</Name>
-    <RootNamespace>gatescontrol</RootNamespace>
+    <AssemblyName>gatecontrol</AssemblyName>
+    <Name>gatecontrol</Name>
+    <RootNamespace>gatecontrol</RootNamespace>
     <ToolchainFlavour>XC8_2.36</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
